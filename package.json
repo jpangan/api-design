@@ -1,0 +1,23 @@
+{
+  "name": "api-design",
+  "version": "1.0.0",
+  "description": "API design v4",
+  "main": "src/index.js",
+  "repository": "git@github.com:jpangan/api-design.git",
+  "author": "jpangan",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.7.1",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "prisma": "^5.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
