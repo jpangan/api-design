@@ -25,7 +25,7 @@ API design with node JS
 
 ### Authentication
 
-- creating a JWT
+- Creating a JWT
 - Protecting routes
 - Validating a Bearer Token
 - Authorization headers
@@ -41,3 +41,6 @@ API design with node JS
 ### Deployment
 
 ## Libraries Used
+
+- express
+- prisma
