@@ -44,3 +44,7 @@ API design with node JS
 
 - express
 - prisma
+
+### Reference
+
+- [API Design V4](https://hendrixer.github.io/API-design-v4/)
